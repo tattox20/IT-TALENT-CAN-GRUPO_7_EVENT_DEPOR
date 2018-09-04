@@ -1,13 +1,12 @@
 # IT-TALENT-CAN-GRUPO_7_EVENT_DEPOR
-Es el proyecto para la localidad de Los martires Eventos deportivos
+Es el proyecto para la localidad de Los mártires Eventos deportivos
 
-El proyecto se realizara con arquitectura MVC (model, view, controller), se manejar lenguaje de programacion RUBY, con conexion a base de datos PostgreSQL, totalmente exportable y controlada con versionamiento GITHUB, manejo de Bootstrap responsive para las diferentes plataformas de pantallas celuar, tablet y equipo. manejo de botonees y enlaces a diferentes modulos y requerimientos de cada rol que maneja la aplicacion.
+El proyecto se realizara con arquitectura MVC (model, view, controller), se manejar lenguaje de programación RUBY, con conexión a base de datos PostgreSQL, totalmente exportable y controlada con versiona miento GITHUB, manejo de Bootstrap responsive para las diferentes plataformas de pantallas celular, Tablet y equipo. Manejo de botones y enlaces a diferentes módulos y requerimientos de cada rol que maneja la aplicación.
 
-se manejara la aplicacion dividida en tres roles, los cuales son:
+Se manejara la aplicación dividida en tres roles, los cuales son:
 
-Administrador: es el que va a tener la administracion y el control de la informacion que se va alimentar en la base de datos, manejara la creacion de los usuarios, las zonas y los deportes.
+Administrador: Es el que va a tener la administración y el control de la información que se va alimentar en la base de datos, manejara la creación de los usuarios, las zonas y los deportes.
 
-Recreador: es el encargado de fomentar incribir deportes y generar toda publicidad requerida para realizar un evento, llevara acabo la organizacion y la participacion de todos los usuarios interesados, y se tendra por obligacion entregar los premios.
+Recreador: Es el encargado de fomentar inscribir deportes y generar toda publicidad requerida para realizar un evento, llevara a cabo la organización y la participación de todos los usuarios interesados, y se tendrá por obligación entregar los premios.
 
-Deportista: es el usuario que indaga en la aplicacion y puede escoger tanto diferentes modalidades de deporte como concursar en varios  deportes, tiene decho a realizar el agendamiento y conocer mas deportistas interesados a participar.
-
+Deportista: Es el usuario que indaga en la aplicación y puede escoger tanto diferentes modalidades de deporte como concursar en varios  deportes, tiene derecho a realizar el agendamiento y conocer más deportistas interesados a participar.
